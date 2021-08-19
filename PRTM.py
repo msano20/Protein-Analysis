@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon May 31 13:11:28 2021
-
+A simple script to calculate monoisotopic mass by organizing the principle masses of the amino acids into a dictionary.
 """
-
-#first determine whether it is a fasta file
 
 file = 'protein.fasta'
 
